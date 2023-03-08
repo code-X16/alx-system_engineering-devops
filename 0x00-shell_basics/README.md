@@ -1,0 +1,1 @@
+This tasks are going to be about the shell basics.
